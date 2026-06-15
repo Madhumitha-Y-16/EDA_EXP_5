@@ -32,11 +32,6 @@ To perform bivariate analysis on COVID-19 data and study the relationship betwee
 13)Generate a range of possible future case numbers and predict corresponding deaths using the trained model.
 
 
-
-**Program**
-## NAME: SUBIKSHA K
-## REG NUMBER: 212224040332
-
 ```
 import pandas as pd
 import matplotlib.pyplot as plt
